@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExceptionHandling", "MiddlewareExceptionHandling\MiddlewareExceptionHandling.csproj", "{91CC6D89-D638-4B9B-9180-03B8A8E2E4A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExceptionHandling.IntegrationTests", "MiddlewareExceptionHandling.IntegrationTests\MiddlewareExceptionHandling.IntegrationTests.csproj", "{4BEBC460-32F0-4D67-A4AF-AEE8765A2692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CC6D89-D638-4B9B-9180-03B8A8E2E4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CC6D89-D638-4B9B-9180-03B8A8E2E4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CC6D89-D638-4B9B-9180-03B8A8E2E4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CC6D89-D638-4B9B-9180-03B8A8E2E4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEBC460-32F0-4D67-A4AF-AEE8765A2692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEBC460-32F0-4D67-A4AF-AEE8765A2692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEBC460-32F0-4D67-A4AF-AEE8765A2692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEBC460-32F0-4D67-A4AF-AEE8765A2692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C41DC77-0AFE-41D0-8DDC-B32B6E77FB9E}
+	EndGlobalSection
+EndGlobal
