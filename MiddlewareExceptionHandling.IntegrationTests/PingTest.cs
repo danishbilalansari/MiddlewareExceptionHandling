@@ -6,6 +6,9 @@ using Xunit;
 
 namespace MiddlewareExceptionHandling.IntegrationTests
 {
+    /// <summary>
+    /// PingTest class for unit testing.
+    /// </summary>
     public class PingTest
     {
         private readonly WebApplicationFactory<Program> _sutFactory;
