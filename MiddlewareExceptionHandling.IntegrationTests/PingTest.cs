@@ -7,7 +7,7 @@ using Xunit;
 namespace MiddlewareExceptionHandling.IntegrationTests
 {
     /// <summary>
-    /// PingTest class for unit testing.
+    /// PingTest class for unit testing
     /// </summary>
     public class PingTest
     {
