@@ -4,4 +4,4 @@ An example of custom ASP.NET core middleware being used to manage exceptions for
 
 # Prerequisite
 
-.Net 6 is required.
+.Net 6.
